@@ -29,5 +29,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonCommands>CommonCommand.НайтиТоварПоИмени</commonCommands>
   <catalogs>Catalog.НенужныйХлам</catalogs>
 </mdclass:Configuration>
