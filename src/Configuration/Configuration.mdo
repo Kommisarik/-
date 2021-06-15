@@ -30,4 +30,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.НенужныйХлам</catalogs>
+  <catalogs>Catalog.Товар</catalogs>
 </mdclass:Configuration>
