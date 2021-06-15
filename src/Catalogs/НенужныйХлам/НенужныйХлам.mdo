@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5dfc72a8-4f72-4648-983a-3e40d43e34fd">
+  <producedTypes>
+    <objectType typeId="ebac310c-ba8e-47d0-9090-fb2a91a9ea0f" valueTypeId="77e4aab6-df26-4d8c-81ed-8b4260c4f149"/>
+    <refType typeId="52c6028d-58bb-425a-b661-e7bcd98f6744" valueTypeId="e932be44-fd5d-4a41-be00-31b460b5824c"/>
+    <selectionType typeId="01f34554-b2b1-406d-8011-fb258ab5ff04" valueTypeId="cf0e8f90-e77a-41e0-8a22-74738a471076"/>
+    <listType typeId="8904f288-8fe3-4d73-b002-3711ef891dc0" valueTypeId="6cbb120a-19fa-4354-a648-a61bdef35f6d"/>
+    <managerType typeId="e70281e5-4386-4616-98e6-58d44ca374d2" valueTypeId="dc8d90df-f452-404b-bd9b-b51441f8e9d5"/>
+  </producedTypes>
+  <name>НенужныйХлам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ненужный хлам</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.НенужныйХлам.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.НенужныйХлам.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
