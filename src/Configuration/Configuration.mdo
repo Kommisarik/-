@@ -31,4 +31,5 @@
   </languages>
   <commonCommands>CommonCommand.НайтиТоварПоИмени</commonCommands>
   <catalogs>Catalog.НенужныйХлам</catalogs>
+  <catalogs>Catalog.МестоНаКарте</catalogs>
 </mdclass:Configuration>

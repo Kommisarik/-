@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e6e8167a-f965-4bf9-b19b-1c6624529c13">
+  <producedTypes>
+    <objectType typeId="f008ee81-2c7d-4bbe-88f7-7583ada81357" valueTypeId="9ca3f0bf-056b-4bb0-b209-fdf7bcbfd208"/>
+    <refType typeId="b2ae938b-ac47-4e0e-863d-fb326521759b" valueTypeId="f838ca44-3b31-40ea-8903-33c92549b780"/>
+    <selectionType typeId="f1ce9f32-0842-4734-a631-24b8068074f1" valueTypeId="3ef4dbce-58f4-46c2-b56e-3fd4eaca9697"/>
+    <listType typeId="715c394f-a502-4950-a872-b11d197125c6" valueTypeId="b39c20ff-143e-4a2c-8cce-968065f2f36b"/>
+    <managerType typeId="aac72529-43a3-4328-8994-ad1c141020d7" valueTypeId="dc859495-6706-442b-8d4b-69325812ab30"/>
+  </producedTypes>
+  <name>МестоНаКарте</name>
+  <synonym>
+    <key>ru</key>
+    <value>Место на карте</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.МестоНаКарте.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.МестоНаКарте.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
